@@ -81,6 +81,12 @@ h1 {
 
 }
 
+.TITRE-DESCRIPTION h2 {
+
+    font-family: 'Pacifico';
+    font-size: 35px;
+
+}
 
 
 .TITRE-DESCRIPTION p {
@@ -203,5 +209,20 @@ hr {
 
     text-align: right;
     margin-right: 200px;
+
+}
+
+.IMAGES_ENTREPRISE {
+
+    margin-top: 80px;
+    text-align: center;
+}
+
+.IMAGES_ENTREPRISE img {
+
+
+    border-radius: 40px;
+    width: 400px;
+    height: 600px;
 
 }
